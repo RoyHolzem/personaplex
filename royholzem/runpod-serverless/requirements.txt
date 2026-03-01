@@ -1,9 +1,0 @@
-runpod>=1.0.0
-torch>=2.2.0,<2.5
-huggingface-hub>=0.24,<0.25
-safetensors>=0.4.0,<0.5
-numpy>=1.26,<2.2
-sentencepiece==0.2
-sounddevice==0.5
-sphn>=0.1.4,<0.2
-einops==0.7
